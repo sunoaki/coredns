@@ -53,6 +53,7 @@ require (
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/pires/go-proxyproto v0.12.0
 	github.com/prometheus/exporter-toolkit v0.16.0
+	github.com/sunoaki/coredns-nat64ptr-plugin v0.0.0-20260609165149-ee36b8f54c91
 	golang.org/x/net v0.55.0
 )
 
@@ -168,7 +169,6 @@ require (
 	github.com/secure-systems-lab/go-securesystemslib v0.10.0 // indirect
 	github.com/shirou/gopsutil/v4 v4.26.2 // indirect
 	github.com/spf13/pflag v1.0.10 // indirect
-	github.com/sunoaki/coredns-nat64ptr-plugin v0.0.0-20260609155351-daac387fbb38 // indirect
 	github.com/tinylib/msgp v1.6.3 // indirect
 	github.com/tklauser/go-sysconf v0.3.16 // indirect
 	github.com/tklauser/numcpus v0.11.0 // indirect
