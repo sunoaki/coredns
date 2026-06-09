@@ -61,6 +61,7 @@ var Directives = []string{
 	"secondary",
 	"etcd",
 	"loop",
+	"nat64ptr",
 	"forward",
 	"grpc",
 	"erratic",
